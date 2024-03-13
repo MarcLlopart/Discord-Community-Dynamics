@@ -1,5 +1,6 @@
-# Discord-Community-Dynamics
-OCEAN Protocol Data Challenge #3 2024
+# Discord Community Dynamics
+
+## OCEAN Protocol Data Challenge #3 2024
 
 The following files have been used to complete the challenge:
 - 1_data_exploration.ipynb: contains the first EDA and some preprocessing
